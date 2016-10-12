@@ -30,8 +30,8 @@ In Version 3, make the following enhancements:
 In Version 4, make the following enhancements:
 
  - Allow for more flexible input.
-  - Let "r", "R", "2" all work to play "rock."
-  - Let "p", "P", "1" all work to play "paper."
+  - Let "r", "R", "1" all work to play "rock."
+  - Let "p", "P", "2" all work to play "paper."
   - Let "s", "S, "3" all work to play "scissors."
   - Let "q", "Q", "exit", "ExiT", "e" all work to "quit."
 
